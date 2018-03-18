@@ -1,5 +1,5 @@
 print("Mary had a little lamb.")
-print("Its fleece was white as {}".format('snow'))
+print("Its fleece was white as {}".format('snow')) #see this line, .format()
 print("And everywhere that Mary went.")
 print("." * 10) #multiply the string 10 times
 
