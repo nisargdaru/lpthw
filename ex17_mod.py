@@ -9,3 +9,4 @@ fout.write(poem)
 fout.close()
 
 #print(poem, file=fout) 
+#print(poem, file=fout, sep='', end='') sep stands for seperator 
